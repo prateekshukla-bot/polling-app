@@ -1,0 +1,159 @@
+stores
+
+Regards.
+
+HR SOTMON
+
+GM-Audit
+
+JAYASWAL NECO INDUSTRIES LIMITED
+
+Siltara Growth Centre, Siltara,
+
+Raipur, Chhattisgarh
+
+
+
+
+---------- Forwarded message ---------
+From: Manukonda Murlidhar <manukonda.murlidhar@necoindia.com>
+Date: Fri, Oct 25, 2024 at 9:17 AM
+Subject: Fwd: PaperLess Project || 16.10.2024 meeting points
+To: Sukanta Nayak <sukanta.nayak@necoindia.com>
+Cc: Sweta Patel <sweta.patel@necoindia.com>, Mahesh Kalkar <mahesh.kalkar@necoindia.com>, Hruday Sotmon <hruday.sotmon@necoindia.com>, Shyamsunder Mandal <shyamsunder.mandal@necoindia.com>, Manoj Upadhyay <manoj.upadhyay@necoindia.com>, Sanjay Kumar Singh <sanjay.kumar@necoindia.com>
+
+
+Dear Sir,
+
+     As per yesterday's meeting, the paper will not flow from the gate, it will flow through the system / display & working will be done on the tab for further process at receipt and issue section. For this below mentioned points are to be addressed how it will be done. 
+   
+Regards,
+Murli
+
+---------- Forwarded message ---------
+From: Manukonda Murlidhar <manukonda.murlidhar@necoindia.com>
+Date: Tue, Oct 22, 2024 at 8:36 PM
+Subject: Fwd: PaperLess Project || 16.10.2024 meeting points
+To: Shyamsunder Mandal <shyamsunder.mandal@necoindia.com>, Sanjay Kumar Singh <sanjay.kumar@necoindia.com>, Manoj Upadhyay <manoj.upadhyay@necoindia.com>, Sweta Patel <sweta.patel@necoindia.com>
+Cc: Hruday Sotmon <hruday.sotmon@necoindia.com>, Mahesh Kalkar <mahesh.kalkar@necoindia.com>, Sukanta Nayak <sukanta.nayak@necoindia.com>
+
+
+Dear Sir,
+
+Today at 4.00 pm meeting held at Sukanta sir room for below mentioned points & meeting comments are  :-
+
+1.)    If driver received more than 4 token from gate but at stores driver submitted less tokens then how it will traceable & controlled  ----- Truck wise token no enabled for this, either single token per vehicle or bar code on invoice , under discussion with the service provider tomorrow.
+2.) If weighted material will be received in non commercial vehicles then what will be the process as per validation----   Vehicle with 3 & more wheels will be consider for weighment.
+3)  if any deviation at time of receipt material  Auto generated discrepancy go to purchase & after clearance of purchase, security will release the vehicle ---  As is process will continue ( if any weight variation or any other reasons purchase will give information to stores for reweight or any other comments)
+4.)   Material receipt report is required for material & physical qty verification for edit the receipt qty in goods receipt note---  Capture physical qty of invoice line item wise at the time of checking & at the time of grn- receipt qty will populated, receipt report will explore.
+5.)  Now receipt section checking the status of grn, if ud has completed , all documents with material , send to issue section with receipt report.:- in paperless  how receipt section will send the material to issue section after ud completion. . ( If document line are multiples,.ud completed show by document number not as per inspection lot no) ---   How to track the issue section material alerted confirmation in the system from receipt section  is under discussion with vendor
+6.) At issue section  After checking the receipt material form receipt section with invoice & grn material placed in respective storage bin & document are sent to purchase for bill processing :-  Now how it will be done after paperless. --- Auto trigger to bill section after UD. Before this grn wise ud clearance will be explored.
+7.) A provision should be given to the issue section to capture the observation against line items of the grn after ud  as well as the storage bin.--  To discuss & explore (under discussion with vendor)
+8.) In the receipt section the material received in wooden box or bulk material the acknowledge is given as pkg or lot. ( written as material under inspection, qty & quality is under physical verification:)- the material counting and inspection will be done after vehicle exit.. how it the material  counting and shortage counting will be written on invoice after vehicle exit. --- Same as point no 4
+9.)  After ud  rejection material kept at receipt section in temporary location  for  traceability of material.  How it will be traceable  after paper less.---- Under discussion 
+10.) Now pending challan are entering  in sap with reasons .  in paperless process how  to be define in numbl.--  To be Discussed ( Under discussion)
+11) There are two documents that are mandatory to control the store process : receipt report , gate entry report, and ud report.  -- Already in sap it will be continued.
+
+
+Regards,
+Murli
+
+---------- Forwarded message ---------
+From: Manukonda Murlidhar <manukonda.murlidhar@necoindia.com>
+Date: Tue, Oct 22, 2024 at 12:55 PM
+Subject: Fwd: PaperLess Project || 16.10.2024 meeting points
+To: Hruday Sotmon <hruday.sotmon@necoindia.com>, Sukanta Nayak <sukanta.nayak@necoindia.com>
+Cc: Sweta Patel <sweta.patel@necoindia.com>, Mahesh Kalkar <mahesh.kalkar@necoindia.com>, Hamid Ali <hamid.ali@necoindia.com>, Manoj Upadhyay <manoj.upadhyay@necoindia.com>, Shyamsunder Mandal <shyamsunder.mandal@necoindia.com>, Sanjay Kumar Singh <sanjay.kumar@necoindia.com>
+
+
+Dear Sir,
+
+ Their are some observation from our stores team,  :the points are as below-
+ 
+1.)    If driver received more than 4 token from gate but at stores driver submitted less tokens then how it will traceable & controlled
+2.) If weighted material will be received in non commercial vehicles then what will be the process as per validation
+3) . if any deviation at time of receipt material  Auto generated discrepancy go to purchase & after clearance of purchase, security will release the vehicle
+4.)   Material receipt report is required for material & physical qty verification for edit the receipt qty in goods receipt note
+5.)  Now receipt section checking the status of grn, if ud has completed , all documents with material , send to issue section with receipt report.:- in paperless  how receipt section will send the material to issue section after ud completion. . ( If document line are multiples,.ud completed show by document number not as per inspection lot no)
+6.) At issue section  After checking the receipt material form receipt section with invoice & grn material placed in respective storage bin & document are sent to purchase for bill processing :-  Now how it will be done after paperless.
+7.) A provision should be given to the issue section to capture thei observation against line items of the grn after ud  as well as the storage bin.
+8.) In the receipt section the material received in wooden box or bulk material the acknowledge is given as pkg or lot. ( written as material under inspection, qty & quality is under physical verification:)- the material counting and inspection will be done after vehicle exit.. how it the material  counting and shortage counting will be written on invoice after vehicle exit. 
+9.)  After ud  rejection material kept at receipt section in temporary location  for  traceability of material.  How it will be traceable  after paper less.
+10.) Now pending challan are entering  in sap with reasons .  in paperless process how  to be define in numbl.
+11) There are two documents that are mandatory to control the store process : receipt report , gate entry report, and ud report.
+
+
+Regards,
+Murli
+
+---------- Forwarded message ---------
+From: Manukonda Murlidhar <manukonda.murlidhar@necoindia.com>
+Date: Mon, Oct 21, 2024 at 6:54 PM
+Subject: Fwd: PaperLess Project || 16.10.2024 meeting points
+To: Manoj Upadhyay <manoj.upadhyay@necoindia.com>, Sanjay Kumar Singh <sanjay.kumar@necoindia.com>, Shyamsunder Mandal <shyamsunder.mandal@necoindia.com>, SPD Stores Issue <spd.storesissue@necoindia.com>, Ranjeet Singh <ranjeet.singh@necoindia.com>, SPD Stores Issue - 1 <spd.storesissue1@necoindia.com>, Vishwanath Rao <vishwanath.rao@necoindia.com>, SPD Store Transport <lohit.kumar@necoindia.com>, Sanat Verma <sanat.verma@necoindia.com>, Pramod Verma <pramod.verma@necoindia.com>, SPD Stores RM <spd.rmstores@necoindia.com>
+Cc: Sweta Patel <sweta.patel@necoindia.com>, Hruday Sotmon <hruday.sotmon@necoindia.com>
+
+
+Dear All,
+
+All scenario of store process for the receiving  the material which has been discussed & mapped in attached sheet 
+Kindly give your comments or  any missed scenarios.
+
+Regards,
+Murli
+
+---------- Forwarded message ---------
+From: Sweta Patel <sweta.patel@necoindia.com>
+Date: Mon, Oct 21, 2024 at 4:53 PM
+Subject: Fwd: PaperLess Project || 16.10.2024 meeting points
+To: Manoj Upadhyay <manoj.upadhyay@necoindia.com>, Sanjay Kumar Singh <sanjay.kumar@necoindia.com>, Shyamsunder Mandal <shyamsunder.mandal@necoindia.com>, SPD Stores Issue <spd.storesissue@necoindia.com>, Ranjeet Singh <ranjeet.singh@necoindia.com>, SPD Stores Issue - 1 <spd.storesissue1@necoindia.com>, Vishwanath Rao <vishwanath.rao@necoindia.com>, SPD Store Transport <lohit.kumar@necoindia.com>, Sanat Verma <sanat.verma@necoindia.com>, Pramod Verma <pramod.verma@necoindia.com>
+Cc: Manukonda Murlidhar <manukonda.murlidhar@necoindia.com>
+
+
+PL. check your area & discuss, if any, for better understanding.
+Regards,
+
+S.K Patel
+GM (Store)
+JNIL(SPD), Siltara, Raipur
+Mobile : +91-9109118309
+
+
+
+---------- Forwarded message ---------
+From: Hamid Ali <hamid.ali@necoindia.com>
+Date: Mon, Oct 21, 2024 at 4:41 PM
+Subject: Re: PaperLess Project || 16.10.2024 meeting points
+To: Manukonda Murlidhar <manukonda.murlidhar@necoindia.com>
+Cc: Hruday Sotmon <hruday.sotmon@necoindia.com>, Mahesh Kalkar <mahesh.kalkar@necoindia.com>, Sweta Patel <sweta.patel@necoindia.com>, Sukanta Nayak <sukanta.nayak@necoindia.com>
+
+
+Dear Murli Ji,
+PFA for Revised Copy
+
+On Mon, Oct 21, 2024 at 10:36 AM Manukonda Murlidhar <manukonda.murlidhar@necoindia.com> wrote:
+Dear Sir,
+
+  Gate no 8 in page no 1 scenario  seems ok but from page no two there is some correction & have to understand. Kindly give me time with you for discussion & correction today at 11 am.
+
+Regards,
+Murli
+
+---------- Forwarded message ---------
+From: Hamid Ali <hamid.ali@necoindia.com>
+Date: Thu, Oct 17, 2024 at 12:06 PM
+Subject: PaperLess Project || 16.10.2024 meeting points
+To: Kamalkant Singh <kamalkant.singh@necoindia.com>, Manukonda Murlidhar <manukonda.murlidhar@necoindia.com>, Apoorva Chandrawanshi <apoorva.chandrawanshi@necoindia.com>
+Cc: Sukanta Nayak <sukanta.nayak@necoindia.com>, Hruday Sotmon <hruday.sotmon@necoindia.com>, Mahesh Kalkar <mahesh.kalkar@necoindia.com>
+
+
+Dear Sir,
+I have prepared the steps for the enhancement discussed in yesterday's meeting. If anything is missing, please correct it and send it back to me.
+
+Please see details are in the attached file  
+
+--
+by hamid ali
+
+
+
